@@ -1,24 +1,24 @@
-# Nmap 7.95 scan initiated Mon Sep 22 08:39:47 2025 as: /usr/lib/nmap/nmap -sS -oN scan_result.txt 192.168.175.138/24
-Nmap scan report for 192.168.175.1
+# Nmap 7.95 scan initiated Mon Sep 22 08:39:47 2025 as: /usr/lib/nmap/nmap -sS -oN scan_result.txt 192.168.X.X/24
+Nmap scan report for 192.168.X.X
 Host is up (0.011s latency).
-All 1000 scanned ports on 192.168.175.1 are in ignored states.
+All 1000 scanned ports on 192.168.X.X are in ignored states.
 Not shown: 1000 filtered tcp ports (no-response)
-MAC Address: 00:50:56:C0:00:08 (VMware)
+MAC Address: 00:50:X:X:X:X (VMware)
 
-Nmap scan report for 192.168.175.2
+Nmap scan report for 192.168.X.X
 Host is up (0.00017s latency).
 Not shown: 999 closed tcp ports (reset)
 PORT   STATE SERVICE
 53/tcp open  domain
-MAC Address: 00:50:56:E8:CA:41 (VMware)
+MAC Address: 00:50:X:X:X:X (VMware)
 
-Nmap scan report for 192.168.175.254
+Nmap scan report for 192.168.X.X
 Host is up (0.00030s latency).
-All 1000 scanned ports on 192.168.175.254 are in ignored states.
+All 1000 scanned ports on 192.168.X.X are in ignored states.
 Not shown: 1000 filtered tcp ports (no-response)
-MAC Address: 00:50:56:E9:3F:63 (VMware)
+MAC Address: 00:50:X:X:X:X (VMware)
 
-Nmap scan report for 192.168.175.138
+Nmap scan report for 192.168.X.X
 Host is up (0.0000080s latency).
 Not shown: 998 closed tcp ports (reset)
 PORT     STATE SERVICE
